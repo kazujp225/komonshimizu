@@ -1,0 +1,322 @@
+{
+  "caseStudies": [
+    {
+      "id": "CS001",
+      "title": "29歳でIPO実現 - AIスタートアップの成功ストーリー",
+      "subtitle": "テクノロジーソリューション株式会社の軌跡",
+      "company": {
+        "name": "テクノロジーソリューション株式会社",
+        "industry": "AI・機械学習",
+        "founded": "2018-04-01",
+        "ipoDate": "2023-12-15",
+        "currentMarketCap": 84000000000,
+        "logo": "https://example.com/logos/techsol.png"
+      },
+      "founder": {
+        "name": "田中 健太",
+        "ageAtFounding": 24,
+        "ageAtIPO": 29,
+        "background": "東京大学工学部卒業後、GoogleでAIエンジニアとして2年勤務",
+        "photo": "https://example.com/founders/tanaka.jpg"
+      },
+      "challenge": {
+        "title": "創業時の課題",
+        "description": "大手テック企業での経験はあったものの、ビジネス面での知識が不足。特に資金調達や組織運営に関する課題が山積していた。",
+        "specificChallenges": [
+          "初回資金調達での投資家説明の困難さ",
+          "技術者中心の組織から事業組織への転換",
+          "競合との差別化戦略の策定",
+          "IPO準備における法務・財務体制の整備"
+        ]
+      },
+      "solution": {
+        "title": "HANATABAによる支援内容",
+        "approach": "Professional プランで2年間継続支援",
+        "keyInitiatives": [
+          {
+            "initiative": "IPO戦略ロードマップの策定",
+            "description": "5年間の詳細な上場準備計画を策定。各フェーズでの目標設定と必要なアクションを明確化",
+            "timeline": "1ヶ月目",
+            "impact": "明確な方向性の確立"
+          },
+          {
+            "initiative": "資金調達戦略の最適化",
+            "description": "シリーズA〜Cまでの調達戦略を段階的に設計。投資家向け資料のブラッシュアップ",
+            "timeline": "2-8ヶ月目",
+            "impact": "総額15億円の資金調達に成功"
+          },
+          {
+            "initiative": "組織体制の強化",
+            "description": "IPO準備に向けた管理体制の構築。CFO・CLO採用支援と内部統制システムの導入",
+            "timeline": "12-18ヶ月目",
+            "impact": "上場審査基準を満たす体制構築"
+          },
+          {
+            "initiative": "IRストーリーの構築",
+            "description": "投資家向けの成長ストーリーと財務計画の策定。市場での差別化要因の明確化",
+            "timeline": "20-24ヶ月目",
+            "impact": "IPO時の株価評価向上"
+          }
+        ]
+      },
+      "results": {
+        "title": "成果・結果",
+        "timeline": [
+          {
+            "date": "2021-06",
+            "milestone": "シリーズA調達完了",
+            "amount": 500000000,
+            "details": "HANATABAの支援により、想定を上回る調達に成功"
+          },
+          {
+            "date": "2022-03",
+            "milestone": "シリーズB調達完了",
+            "amount": 1000000000,
+            "details": "海外VCからの調達も実現、グローバル展開の基盤確立"
+          },
+          {
+            "date": "2022-12",
+            "milestone": "IPO準備開始",
+            "details": "監査法人・主幹事証券選定完了"
+          },
+          {
+            "date": "2023-06",
+            "milestone": "予備審査通過",
+            "details": "東証での予備審査を一発通過"
+          },
+          {
+            "date": "2023-12",
+            "milestone": "IPO実現",
+            "marketCap": 84000000000,
+            "details": "公開価格を30%上回る初値で取引開始"
+          }
+        ],
+        "keyMetrics": {
+          "timeToIPO": 68,
+          "totalFundraisingAmount": 1500000000,
+          "ipoValuation": 84000000000,
+          "employeeGrowth": "25名→245名（980%増）",
+          "revenueGrowth": "年収1億円→156億円（156倍）"
+        }
+      },
+      "lessons": {
+        "title": "成功要因とポイント",
+        "successFactors": [
+          {
+            "factor": "早期からの戦略的準備",
+            "description": "IPO3年前から準備を開始。段階的な体制構築により、審査でのスムーズな通過を実現"
+          },
+          {
+            "factor": "専門家チームとの連携",
+            "description": "HANATABA経由で優秀なCFO・監査法人と早期に接触。質の高い準備体制を構築"
+          },
+          {
+            "factor": "技術×ビジネスの両立",
+            "description": "技術力を維持しながら、ビジネス面での成長を両立。投資家から高い評価を獲得"
+          },
+          {
+            "factor": "市場タイミングの最適化",
+            "description": "AI市場の成長期に合わせたIPOタイミング。市場からの注目度も最大化"
+          }
+        ],
+        "quote": "HANATABAなしでは、このスピードでのIPO実現は不可能でした。特に資金調達と組織体制構築の支援が決定的でした。",
+        "quotee": "田中 健太（創業者・代表取締役CEO）"
+      },
+      "impact": {
+        "businessImpact": [
+          "市場シェア12%獲得（業界3位）",
+          "従業員満足度94%（業界平均68%）",
+          "顧客満足度NPS +67（業界平均 +23）",
+          "売上成長率245%（3年平均）"
+        ],
+        "socialImpact": [
+          "AI導入企業の生産性向上に貢献",
+          "地方企業のデジタル変革を支援",
+          "若手エンジニアの雇用創出"
+        ]
+      },
+      "publishedAt": "2024-12-01T00:00:00Z",
+      "lastUpdated": "2024-12-01T00:00:00Z",
+      "status": "published",
+      "views": 15680,
+      "downloads": 892,
+      "shares": 156
+    },
+    {
+      "id": "CS002", 
+      "title": "26歳女性経営者のクリーンテック革命 - ESG時代のIPO戦略",
+      "subtitle": "EcoTech Innovations株式会社の挑戦と成功",
+      "company": {
+        "name": "EcoTech Innovations株式会社",
+        "industry": "クリーンテクノロジー",
+        "founded": "2020-03-10",
+        "ipoDate": "2024-09-20",
+        "currentMarketCap": 156000000000,
+        "logo": "https://example.com/logos/ecotech.png"
+      },
+      "founder": {
+        "name": "佐藤 美咲",
+        "ageAtFounding": 22,
+        "ageAtIPO": 26,
+        "background": "スタンフォード大学環境工学修士課程修了。Tesla Japan でプロダクトマネージャーとして勤務",
+        "photo": "https://example.com/founders/sato.jpg"
+      },
+      "challenge": {
+        "title": "創業時の課題",
+        "description": "若い女性経営者として、重厚な製造業界での信頼獲得と資金調達に大きな困難を抱えていた。",
+        "specificChallenges": [
+          "保守的な業界での若い女性経営者への偏見",
+          "高額な設備投資を要する事業の資金調達",
+          "技術開発と事業化の並行実行の困難さ",
+          "ESG投資の理解促進と適切な投資家との出会い"
+        ]
+      },
+      "solution": {
+        "title": "HANATABAによる支援内容",
+        "approach": "Enterprise プランで3年間集中支援",
+        "keyInitiatives": [
+          {
+            "initiative": "ESG特化のIRストーリー構築",
+            "description": "環境価値と経済価値の両立を訴求するストーリーラインを構築。ESG投資家をターゲットとした戦略策定",
+            "timeline": "1-6ヶ月目",
+            "impact": "ESG投資家からの注目度向上"
+          },
+          {
+            "initiative": "女性経営者としてのブランディング",
+            "description": "若い女性経営者の強みを活かしたパーソナルブランディング。メディア露出と業界での発言力向上",
+            "timeline": "6-12ヶ月目", 
+            "impact": "業界での認知度とクレディビリティ向上"
+          },
+          {
+            "initiative": "グローバル投資家ネットワーク構築",
+            "description": "海外のクリーンテック特化VCとの関係構築。グローバル展開を見据えた投資家開拓",
+            "timeline": "12-24ヶ月目",
+            "impact": "総額50億円の大型調達実現"
+          },
+          {
+            "initiative": "IPO準備の加速化",
+            "description": "通常5-7年かかるIPO準備を4年で完了させるための集中的な体制構築",
+            "timeline": "24-36ヶ月目",
+            "impact": "計画より1年早いIPO実現"
+          }
+        ]
+      },
+      "results": {
+        "title": "成果・結果",
+        "timeline": [
+          {
+            "date": "2021-09",
+            "milestone": "シリーズA調達完了",
+            "amount": 1200000000,
+            "details": "ESG特化VCから業界最大級の調達を実現"
+          },
+          {
+            "date": "2022-06",
+            "milestone": "海外展開開始",
+            "details": "シンガポール・タイでの事業展開開始"
+          },
+          {
+            "date": "2023-01",
+            "milestone": "シリーズB調達完了",
+            "amount": 3800000000,
+            "details": "海外機関投資家からの大型調達"
+          },
+          {
+            "date": "2023-08",
+            "milestone": "年商100億円突破",
+            "details": "設立3年で100億円の売上を達成"
+          },
+          {
+            "date": "2024-09",
+            "milestone": "IPO実現",
+            "marketCap": 156000000000,
+            "details": "ESGテーマ株として投資家から高い評価"
+          }
+        ],
+        "keyMetrics": {
+          "timeToIPO": 54,
+          "totalFundraisingAmount": 5000000000,
+          "ipoValuation": 156000000000,
+          "employeeGrowth": "8名→380名（4,750%増）",
+          "revenueGrowth": "年商5千万円→289億円（578倍）"
+        }
+      },
+      "lessons": {
+        "title": "成功要因とポイント",
+        "successFactors": [
+          {
+            "factor": "ESGトレンドへの完璧な適合",
+            "description": "環境問題と収益性を両立させた事業モデル。時代のニーズに完璧にマッチした戦略"
+          },
+          {
+            "factor": "多様性を強みに転換",
+            "description": "若い女性経営者という特徴を差別化要因として活用。ブランド価値向上に成功"
+          },
+          {
+            "factor": "グローバル視点での事業展開",
+            "description": "創業当初から海外展開を視野に入れた戦略。国内外の投資家から高い評価"
+          },
+          {
+            "factor": "テクノロジーとビジョンの融合",
+            "description": "高度な技術力と明確な社会的ビジョンを組み合わせた独自性の確立"
+          }
+        ],
+        "quote": "HANATABAの支援がなければ、これほど早期のIPO実現は不可能でした。特に投資家との橋渡しとブランディング支援が決定的でした。",
+        "quotee": "佐藤 美咲（創業者・代表取締役CEO）"
+      },
+      "impact": {
+        "businessImpact": [
+          "国内クリーンテック市場シェア8%獲得",
+          "海外売上比率45%達成",
+          "特許出願数124件（業界最多）", 
+          "従業員エンゲージメント96%（業界最高水準）"
+        ],
+        "socialImpact": [
+          "CO2削減量年間50万トン相当に貢献",
+          "女性起業家のロールモデルとして社会的影響",
+          "クリーンテック分野での雇用創出380名"
+        ]
+      },
+      "publishedAt": "2024-11-15T00:00:00Z",
+      "lastUpdated": "2024-11-15T00:00:00Z",
+      "status": "published",
+      "views": 22340,
+      "downloads": 1245,
+      "shares": 298
+    }
+  ],
+  "caseStudyMetrics": {
+    "totalStudies": 2,
+    "averageViews": 19010,
+    "averageDownloads": 1069,
+    "averageShares": 227,
+    "industryDistribution": {
+      "AI・テクノロジー": 1,
+      "クリーンテクノロジー": 1
+    },
+    "founderAgeDistribution": {
+      "20-25": 1,
+      "26-30": 1
+    },
+    "averageTimeToIPO": 61,
+    "averageIPOValuation": 120000000000,
+    "totalJobsCreated": 625,
+    "totalFundraisingAmount": 6500000000
+  },
+  "upcomingStudies": [
+    {
+      "id": "CS003",
+      "title": "32歳ヘルスケア起業家の薬事承認からIPOへの道のり",
+      "company": "HealthTech Plus",
+      "status": "in_progress",
+      "expectedPublishDate": "2025-01-15"
+    },
+    {
+      "id": "CS004", 
+      "title": "24歳フィンテック経営者の規制業界での挑戦",
+      "company": "FinTech Revolution",
+      "status": "planning",
+      "expectedPublishDate": "2025-02-28"
+    }
+  ]
+}

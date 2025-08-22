@@ -1,0 +1,399 @@
+{
+  "shortVideos": [
+    {
+      "id": "V001",
+      "title": "20代でIPO実現！成功の秘訣3選",
+      "description": "20代という若さでIPOを達成した経営者たちの共通点を3分で解説。あなたも実践できる具体的な戦略をお伝えします。",
+      "thumbnail": "https://example.com/thumbnails/v001.jpg",
+      "videoUrl": "https://example.com/videos/v001.mp4",
+      "duration": 180,
+      "createdAt": "2024-12-18T10:00:00Z",
+      "publishedAt": "2024-12-18T18:00:00Z",
+      "status": "published",
+      "category": "IPO戦略",
+      "tags": ["20代経営者", "IPO", "成功秘訣", "若手起業家"],
+      "platform": {
+        "youtube": {
+          "videoId": "dQw4w9WgXcQ",
+          "views": 28450,
+          "likes": 1250,
+          "comments": 87,
+          "subscribers_gained": 156
+        },
+        "tiktok": {
+          "videoId": "7123456789012345678",
+          "views": 45670,
+          "likes": 2340,
+          "shares": 456,
+          "comments": 123
+        },
+        "instagram": {
+          "postId": "ABC123DEF456",
+          "views": 18930,
+          "likes": 987,
+          "saves": 234,
+          "shares": 89
+        }
+      },
+      "script": [
+        {
+          "timestamp": "00:00",
+          "text": "20代でIPOって本当に可能？実は、最近急増してるんです。",
+          "scene": "hook"
+        },
+        {
+          "timestamp": "00:15",
+          "text": "成功する20代経営者の共通点、第一に「デジタルネイティブの強み」",
+          "scene": "point1"
+        },
+        {
+          "timestamp": "00:45",
+          "text": "第二に「失敗への恐れが少ない」。これが最大の武器になります。",
+          "scene": "point2"
+        },
+        {
+          "timestamp": "01:15",
+          "text": "第三に「周りを巻き込む力」。一人では無理でも、チームなら可能。",
+          "scene": "point3"
+        },
+        {
+          "timestamp": "01:45",
+          "text": "あなたのIPO可能性、5分で診断できます。概要欄のリンクから！",
+          "scene": "cta"
+        }
+      ],
+      "performance": {
+        "totalViews": 93050,
+        "totalLikes": 4577,
+        "totalComments": 210,
+        "totalShares": 545,
+        "engagementRate": 5.73,
+        "watchTimeRetention": 78.5,
+        "clickThroughRate": 3.2
+      },
+      "cta": {
+        "text": "5分IPO診断はこちら",
+        "url": "https://hanataba.com/assessment",
+        "clicks": 2978
+      }
+    },
+    {
+      "id": "V002",
+      "title": "AI活用で売上3倍！スタートアップの実例",
+      "description": "わずか6ヶ月でAI導入により売上を3倍にしたスタートアップの実際の取り組みを紹介。明日から使える具体的な手法も公開。",
+      "thumbnail": "https://example.com/thumbnails/v002.jpg",
+      "videoUrl": "https://example.com/videos/v002.mp4",
+      "duration": 195,
+      "createdAt": "2024-12-15T14:30:00Z",
+      "publishedAt": "2024-12-15T19:00:00Z",
+      "status": "published",
+      "category": "テクノロジー",
+      "tags": ["AI活用", "売上向上", "スタートアップ", "業務効率化"],
+      "platform": {
+        "youtube": {
+          "videoId": "Xgc5T2f8HqA",
+          "views": 31260,
+          "likes": 1456,
+          "comments": 92,
+          "subscribers_gained": 189
+        },
+        "tiktok": {
+          "videoId": "7234567890123456789",
+          "views": 52340,
+          "likes": 2670,
+          "shares": 523,
+          "comments": 145
+        },
+        "instagram": {
+          "postId": "DEF456GHI789",
+          "views": 22140,
+          "likes": 1124,
+          "saves": 298,
+          "shares": 67
+        }
+      },
+      "script": [
+        {
+          "timestamp": "00:00",
+          "text": "AI導入で売上3倍になったスタートアップの実例をご紹介！",
+          "scene": "hook"
+        },
+        {
+          "timestamp": "00:20",
+          "text": "顧客分析の自動化により、精度の高いターゲティングが実現",
+          "scene": "example1"
+        },
+        {
+          "timestamp": "00:55",
+          "text": "チャットボット導入で問い合わせ対応が24時間365日可能に",
+          "scene": "example2"
+        },
+        {
+          "timestamp": "01:30",
+          "text": "価格最適化AIで利益率が25%向上。ROIは導入3ヶ月で黒字化",
+          "scene": "example3"
+        },
+        {
+          "timestamp": "02:45",
+          "text": "あなたの事業のAI活用可能性を診断してみませんか？",
+          "scene": "cta"
+        }
+      ],
+      "performance": {
+        "totalViews": 105740,
+        "totalLikes": 5250,
+        "totalComments": 237,
+        "totalShares": 590,
+        "engagementRate": 5.97,
+        "watchTimeRetention": 82.1,
+        "clickThroughRate": 4.1
+      },
+      "cta": {
+        "text": "AI活用診断を受ける",
+        "url": "https://hanataba.com/ai-assessment",
+        "clicks": 4335
+      }
+    },
+    {
+      "id": "V003",
+      "title": "資金調達失敗する会社の特徴TOP5",
+      "description": "VCが投資を見送る理由を内部情報をもとに分析。これを知らずに調達に挑むのは危険すぎます。",
+      "thumbnail": "https://example.com/thumbnails/v003.jpg",
+      "videoUrl": "https://example.com/videos/v003.mp4",
+      "duration": 210,
+      "createdAt": "2024-12-12T09:15:00Z",
+      "publishedAt": "2024-12-12T17:30:00Z",
+      "status": "published",
+      "category": "資金調達",
+      "tags": ["資金調達", "VC", "投資失敗", "スタートアップ"],
+      "platform": {
+        "youtube": {
+          "videoId": "hQw9X2g7VcT",
+          "views": 42380,
+          "likes": 1890,
+          "comments": 156,
+          "subscribers_gained": 267
+        },
+        "tiktok": {
+          "videoId": "7345678901234567890",
+          "views": 67890,
+          "likes": 3450,
+          "shares": 678,
+          "comments": 234
+        },
+        "instagram": {
+          "postId": "GHI789JKL012",
+          "views": 29870,
+          "likes": 1450,
+          "saves": 387,
+          "shares": 123
+        }
+      },
+      "script": [
+        {
+          "timestamp": "00:00",
+          "text": "資金調達で99%が失敗する理由、VCが絶対言わない真実を暴露",
+          "scene": "hook"
+        },
+        {
+          "timestamp": "00:25",
+          "text": "失敗理由1位：市場規模の過大評価。現実的な数字を示せない",
+          "scene": "reason1"
+        },
+        {
+          "timestamp": "00:55",
+          "text": "2位：競合分析の甘さ。「競合はいません」は即アウト",
+          "scene": "reason2"
+        },
+        {
+          "timestamp": "01:25",
+          "text": "3位：財務計画の矛盾。売上予測と支出計画が合わない",
+          "scene": "reason3"
+        },
+        {
+          "timestamp": "01:55",
+          "text": "あなたの調達準備度、無料で診断できます",
+          "scene": "cta"
+        }
+      ],
+      "performance": {
+        "totalViews": 140140,
+        "totalLikes": 6790,
+        "totalComments": 390,
+        "totalShares": 801,
+        "engagementRate": 5.71,
+        "watchTimeRetention": 75.3,
+        "clickThroughRate": 2.8
+      },
+      "cta": {
+        "text": "資金調達準備度診断",
+        "url": "https://hanataba.com/funding-assessment",
+        "clicks": 3923
+      }
+    },
+    {
+      "id": "V004",
+      "title": "月商1億円までの最短ルート公開",
+      "description": "実際に月商1億円を達成した経営者の戦略を分析。段階別にやるべきことを具体的に解説します。",
+      "thumbnail": "https://example.com/thumbnails/v004.jpg",
+      "videoUrl": "https://example.com/videos/v004.mp4",
+      "duration": 225,
+      "createdAt": "2024-12-08T16:00:00Z",
+      "publishedAt": "2024-12-08T20:00:00Z",
+      "status": "published",
+      "category": "成長戦略",
+      "tags": ["月商1億", "スケーリング", "成長戦略", "経営"],
+      "platform": {
+        "youtube": {
+          "videoId": "kL9mN3p2QrS",
+          "views": 38920,
+          "likes": 1723,
+          "comments": 134,
+          "subscribers_gained": 201
+        },
+        "tiktok": {
+          "videoId": "7456789012345678901",
+          "views": 58760,
+          "likes": 2980,
+          "shares": 589,
+          "comments": 178
+        },
+        "instagram": {
+          "postId": "JKL012MNO345",
+          "views": 24560,
+          "likes": 1230,
+          "saves": 345,
+          "shares": 98
+        }
+      },
+      "performance": {
+        "totalViews": 122240,
+        "totalLikes": 5933,
+        "totalComments": 312,
+        "totalShares": 687,
+        "engagementRate": 5.69,
+        "watchTimeRetention": 79.8,
+        "clickThroughRate": 3.5
+      },
+      "cta": {
+        "text": "成長戦略診断を受ける",
+        "url": "https://hanataba.com/growth-assessment",
+        "clicks": 4278
+      }
+    },
+    {
+      "id": "V005",
+      "title": "IPO準備で絶対やってはいけない3つのこと",
+      "description": "IPO準備でよくある致命的なミスを3つ紹介。これを知らないと上場審査で確実に落ちます。",
+      "thumbnail": "https://example.com/thumbnails/v005.jpg", 
+      "videoUrl": "https://example.com/videos/v005.mp4",
+      "duration": 165,
+      "createdAt": "2024-12-05T11:45:00Z",
+      "publishedAt": "2024-12-05T18:00:00Z",
+      "status": "published",
+      "category": "IPO準備",
+      "tags": ["IPO準備", "上場審査", "失敗例", "注意点"],
+      "platform": {
+        "youtube": {
+          "videoId": "oP3r4S5t6Uv",
+          "views": 46750,
+          "likes": 2140,
+          "comments": 187,
+          "subscribers_gained": 289
+        },
+        "tiktok": {
+          "videoId": "7567890123456789012",
+          "views": 71230,
+          "likes": 3670,
+          "shares": 712,
+          "comments": 245
+        },
+        "instagram": {
+          "postId": "MNO345PQR678",
+          "views": 33450,
+          "likes": 1620,
+          "saves": 434,
+          "shares": 145
+        }
+      },
+      "performance": {
+        "totalViews": 151430,
+        "totalLikes": 7430,
+        "totalComments": 432,
+        "totalShares": 857,
+        "engagementRate": 5.72,
+        "watchTimeRetention": 81.2,
+        "clickThroughRate": 4.2
+      },
+      "cta": {
+        "text": "IPO準備度チェック",
+        "url": "https://hanataba.com/ipo-readiness",
+        "clicks": 6360
+      }
+    }
+  ],
+  "videoStrategy": {
+    "publishingSchedule": {
+      "frequency": "週3回",
+      "days": ["月曜", "水曜", "金曜"],
+      "optimalTimes": {
+        "youtube": "18:00",
+        "tiktok": "20:00",
+        "instagram": "19:00"
+      }
+    },
+    "contentPillars": [
+      {
+        "pillar": "IPO戦略・準備",
+        "percentage": 40,
+        "avgViews": 49090,
+        "avgEngagement": 5.72
+      },
+      {
+        "pillar": "テクノロジー・AI活用",
+        "percentage": 25,
+        "avgViews": 105740,
+        "avgEngagement": 5.97
+      },
+      {
+        "pillar": "資金調達・投資",
+        "percentage": 25,
+        "avgViews": 140140,
+        "avgEngagement": 5.71
+      },
+      {
+        "pillar": "成長戦略・スケーリング",
+        "percentage": 10,
+        "avgViews": 122240,
+        "avgEngagement": 5.69
+      }
+    ],
+    "performance": {
+      "totalViews": 713640,
+      "totalLikes": 34910,
+      "totalComments": 1571,
+      "totalShares": 3480,
+      "averageEngagementRate": 5.76,
+      "averageWatchRetention": 79.36,
+      "totalSubscribersGained": 1102,
+      "totalCTAClicks": 21874
+    },
+    "platformOptimization": {
+      "youtube": {
+        "avgViews": 37452,
+        "avgEngagementRate": 4.8,
+        "subscriberGrowthRate": 12.3
+      },
+      "tiktok": {
+        "avgViews": 59178,
+        "avgEngagementRate": 6.2,
+        "viralityScore": 7.8
+      },
+      "instagram": {
+        "avgViews": 25790,
+        "avgEngagementRate": 6.4,
+        "saveRate": 11.2
+      }
+    }
+  }
+}

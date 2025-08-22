@@ -1,0 +1,193 @@
+{
+  "blogPosts": [
+    {
+      "id": "BP001",
+      "title": "20代でIPOを実現するための5つの戦略 - 若手経営者が知るべき成功法則",
+      "slug": "young-ceo-ipo-strategy-5-rules",
+      "excerpt": "20代という若い年齢でIPOを実現した経営者たちの共通戦略を分析。年齢をハンデではなく武器にする方法を解説します。",
+      "content": "# 20代でIPOを実現するための5つの戦略\n\n近年、20代でIPOを実現する経営者が急激に増加しています。従来「経験不足」とされた若い年齢が、むしろ競争優位の源泉となっている理由を探ります。...",
+      "author": {
+        "name": "田中 健太",
+        "role": "HANATABA代表取締役",
+        "avatar": "https://example.com/authors/tanaka.jpg"
+      },
+      "publishedAt": "2024-12-15T10:00:00Z",
+      "updatedAt": "2024-12-15T10:00:00Z",
+      "status": "published",
+      "category": "IPO戦略",
+      "tags": ["20代経営者", "IPO", "若手", "戦略", "成功法則"],
+      "readingTime": 8,
+      "wordCount": 2500,
+      "seo": {
+        "metaTitle": "20代でIPOを実現する5つの戦略 | HANATABA",
+        "metaDescription": "20代という若い年齢でIPOを実現した経営者たちの共通戦略を分析。年齢をハンデではなく武器にする方法を詳しく解説します。",
+        "focusKeyword": "20代 IPO",
+        "targetKeywords": ["若手経営者", "IPO戦略", "20代起業"]
+      },
+      "engagement": {
+        "views": 15680,
+        "likes": 234,
+        "shares": 89,
+        "comments": 42,
+        "readingCompletionRate": 76.5
+      },
+      "cta": "5分IPO診断を受けて、あなたのIPO実現可能性をチェックしましょう"
+    },
+    {
+      "id": "BP002",
+      "title": "AI時代のスタートアップ経営 - 機械学習を活用した事業成長の実践ガイド",
+      "slug": "ai-startup-management-guide",
+      "excerpt": "AI・機械学習技術をスタートアップ経営に活用し、競合に差をつける実践的な手法を紹介します。",
+      "content": "# AI時代のスタートアップ経営\n\nAIの民主化により、スタートアップでも大企業と同等の分析力を持つことが可能になりました。本記事では、限られたリソースでAIを最大限活用する方法を解説します。...",
+      "author": {
+        "name": "佐藤 美咲",
+        "role": "AI戦略コンサルタント",
+        "avatar": "https://example.com/authors/sato.jpg"
+      },
+      "publishedAt": "2024-12-10T14:30:00Z",
+      "updatedAt": "2024-12-10T14:30:00Z",
+      "status": "published",
+      "category": "テクノロジー",
+      "tags": ["AI", "機械学習", "スタートアップ", "データ分析", "自動化"],
+      "readingTime": 12,
+      "wordCount": 3800,
+      "seo": {
+        "metaTitle": "AI時代のスタートアップ経営術 | HANATABA",
+        "metaDescription": "AI・機械学習技術をスタートアップ経営に活用し、競合に差をつける実践的な手法を詳しく紹介します。",
+        "focusKeyword": "AI スタートアップ",
+        "targetKeywords": ["機械学習 経営", "AI活用", "スタートアップAI"]
+      },
+      "engagement": {
+        "views": 12450,
+        "likes": 198,
+        "shares": 67,
+        "comments": 28,
+        "readingCompletionRate": 82.3
+      },
+      "cta": "AI活用診断で、あなたの事業のAI導入可能性を測定してみませんか？"
+    },
+    {
+      "id": "BP003",
+      "title": "資金調達ラウンド別戦略 - シード〜IPOまでの最適な調達タイミングと手法",
+      "slug": "fundraising-strategy-by-round",
+      "excerpt": "シードからIPOまで、各段階で最適な資金調達戦略と投資家へのアプローチ方法を詳しく解説します。",
+      "content": "# 資金調達ラウンド別戦略ガイド\n\n資金調達は単なるお金の問題ではありません。事業フェーズに応じた最適な調達戦略が、IPO成功の鍵を握ります。各ラウンドの特徴と成功のポイントを解説します。...",
+      "author": {
+        "name": "鈴木 大輔",
+        "role": "投資銀行出身コンサルタント",
+        "avatar": "https://example.com/authors/suzuki.jpg"
+      },
+      "publishedAt": "2024-12-05T09:15:00Z",
+      "updatedAt": "2024-12-05T09:15:00Z",
+      "status": "published",
+      "category": "資金調達",
+      "tags": ["資金調達", "VC", "投資家", "シード", "シリーズA", "IPO"],
+      "readingTime": 15,
+      "wordCount": 4200,
+      "seo": {
+        "metaTitle": "資金調達ラウンド別戦略ガイド | HANATABA",
+        "metaDescription": "シードからIPOまで、各段階で最適な資金調達戦略と投資家へのアプローチ方法を詳しく解説します。",
+        "focusKeyword": "資金調達 戦略",
+        "targetKeywords": ["VC調達", "シリーズA", "IPO準備"]
+      },
+      "engagement": {
+        "views": 18920,
+        "likes": 312,
+        "shares": 156,
+        "comments": 67,
+        "readingCompletionRate": 71.2
+      },
+      "cta": "資金調達可能性診断で、現在のあなたの調達レディネスを確認しましょう"
+    },
+    {
+      "id": "BP004",
+      "title": "デジタルマーケティングROI最大化術 - スタートアップの限られた予算で成果を出す方法",
+      "slug": "digital-marketing-roi-maximization",
+      "excerpt": "限られたマーケティング予算で最大限の成果を出すための、科学的アプローチとツール活用法を紹介します。",
+      "content": "# デジタルマーケティングROI最大化術\n\nスタートアップにとってマーケティング予算は貴重なリソースです。データドリブンなアプローチで、投資効率を最大化する手法を具体例とともに解説します。...",
+      "author": {
+        "name": "高橋 理恵",
+        "role": "デジタルマーケティング専門家",
+        "avatar": "https://example.com/authors/takahashi.jpg"
+      },
+      "publishedAt": "2024-11-28T16:45:00Z",
+      "updatedAt": "2024-11-28T16:45:00Z",
+      "status": "published",
+      "category": "マーケティング",
+      "tags": ["デジタルマーケティング", "ROI", "広告運用", "GA4", "コンバージョン最適化"],
+      "readingTime": 10,
+      "wordCount": 3200,
+      "seo": {
+        "metaTitle": "デジタルマーケティングROI最大化術 | HANATABA",
+        "metaDescription": "限られたマーケティング予算で最大限の成果を出すための、科学的アプローチとツール活用法を詳しく紹介します。",
+        "focusKeyword": "デジタルマーケティング ROI",
+        "targetKeywords": ["マーケティング予算", "コンバージョン最適化", "広告効果測定"]
+      },
+      "engagement": {
+        "views": 11230,
+        "likes": 167,
+        "shares": 43,
+        "comments": 31,
+        "readingCompletionRate": 78.9
+      },
+      "cta": "マーケティング効果診断で、現在の施策の改善ポイントを特定しましょう"
+    },
+    {
+      "id": "BP005",
+      "title": "IPO成功企業の共通点 - 上場を果たした100社の分析から見えた成功パターン",
+      "slug": "ipo-success-patterns-analysis",
+      "excerpt": "過去5年間でIPOを達成した100社を分析し、成功企業に共通する戦略と特徴を明らかにします。",
+      "content": "# IPO成功企業の共通点分析\n\n2019年〜2024年にIPOを達成した100社のデータを詳細分析。業界、規模、タイミングを問わず成功企業に見られる共通パターンを解き明かします。...",
+      "author": {
+        "name": "山田 拓也",
+        "role": "IPO分析専門家",
+        "avatar": "https://example.com/authors/yamada.jpg"
+      },
+      "publishedAt": "2024-11-20T11:20:00Z",
+      "updatedAt": "2024-11-20T11:20:00Z",
+      "status": "published",
+      "category": "IPO分析",
+      "tags": ["IPO", "上場企業", "成功分析", "データ分析", "ベンチマーク"],
+      "readingTime": 18,
+      "wordCount": 5600,
+      "seo": {
+        "metaTitle": "IPO成功企業の共通点分析レポート | HANATABA",
+        "metaDescription": "過去5年間でIPOを達成した100社を分析し、成功企業に共通する戦略と特徴を詳しく解説します。",
+        "focusKeyword": "IPO 成功企業",
+        "targetKeywords": ["上場企業 分析", "IPO成功要因", "上場準備"]
+      },
+      "engagement": {
+        "views": 22340,
+        "likes": 398,
+        "shares": 203,
+        "comments": 89,
+        "readingCompletionRate": 69.4
+      },
+      "cta": "IPO実現可能性診断で、あなたの事業の上場準備度をチェックしましょう"
+    }
+  ],
+  "contentStrategy": {
+    "publishingFrequency": "週2回（火曜・金曜）",
+    "averageWordCount": 3660,
+    "averageReadingTime": 12.6,
+    "topCategories": [
+      { "category": "IPO戦略", "posts": 2, "avgViews": 18500 },
+      { "category": "テクノロジー", "posts": 1, "avgViews": 12450 },
+      { "category": "資金調達", "posts": 1, "avgViews": 18920 },
+      { "category": "マーケティング", "posts": 1, "avgViews": 11230 }
+    ],
+    "performance": {
+      "totalViews": 80620,
+      "totalEngagements": 2647,
+      "averageEngagementRate": 3.28,
+      "averageReadingCompletion": 75.66
+    },
+    "seoResults": {
+      "organicTrafficShare": 68.5,
+      "averagePosition": 4.2,
+      "featuredSnippets": 8,
+      "totalImpressions": 156780,
+      "clickThroughRate": 7.9
+    }
+  }
+}

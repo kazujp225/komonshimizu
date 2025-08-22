@@ -1,0 +1,186 @@
+{
+  "assessmentResults": {
+    "scoreRanges": [
+      {
+        "range": "champion",
+        "minScore": 85,
+        "maxScore": 100,
+        "title": "IPO Champion（IPOチャンピオン）",
+        "subtitle": "IPO実現可能性：非常に高い",
+        "description": "あなたのビジネスはIPOに向けて非常に有望な位置にいます。適切な戦略実行により、3-5年でのIPO実現が期待できます。",
+        "probability": 92,
+        "color": "#10B981",
+        "icon": "🏆",
+        "recommendations": [
+          "IPO準備プロセスの開始（監査法人・証券会社選定）",
+          "ガバナンス体制の強化",
+          "IRストーリーの策定",
+          "成長投資の加速",
+          "エグジット戦略の詳細検討"
+        ],
+        "nextSteps": [
+          "無料IPO戦略セッション（60分）の予約",
+          "IPO準備チェックリストのダウンロード",
+          "類似企業のケーススタディ分析"
+        ],
+        "timeline": "12-18ヶ月でIPO準備開始可能"
+      },
+      {
+        "range": "rising_star",
+        "minScore": 70,
+        "maxScore": 84,
+        "title": "Rising Star（ライジングスター）",
+        "subtitle": "IPO実現可能性：高い",
+        "description": "優れた基盤を持っており、適切な施策により5-7年でのIPO実現が可能です。いくつかの改善点に集中的に取り組みましょう。",
+        "probability": 78,
+        "color": "#3B82F6",
+        "icon": "⭐",
+        "recommendations": [
+          "成長戦略の最適化",
+          "資金調達ラウンドの準備",
+          "チーム拡大と組織強化",
+          "技術・プロダクトの差別化強化",
+          "市場シェア拡大施策"
+        ],
+        "nextSteps": [
+          "成長戦略コンサルティング（90分）",
+          "資金調達準備サポート",
+          "競合分析レポートの作成"
+        ],
+        "timeline": "24-36ヶ月で次のマイルストーン達成"
+      },
+      {
+        "range": "potential",
+        "minScore": 55,
+        "maxScore": 69,
+        "title": "High Potential（ハイポテンシャル）",
+        "subtitle": "IPO実現可能性：中程度",
+        "description": "良い可能性を持っていますが、IPO実現には戦略的な改善が必要です。7-10年でのIPO実現を目指しましょう。",
+        "probability": 58,
+        "color": "#F59E0B",
+        "icon": "🚀",
+        "recommendations": [
+          "ビジネスモデルの最適化",
+          "市場ポジショニングの明確化",
+          "技術投資と差別化の推進",
+          "チームと組織の基盤強化",
+          "財務管理体制の構築"
+        ],
+        "nextSteps": [
+          "ビジネスモデル診断セッション（120分）",
+          "成長戦略ロードマップの策定",
+          "メンタープログラムへの参加"
+        ],
+        "timeline": "36-48ヶ月で成長軌道への転換"
+      },
+      {
+        "range": "developer",
+        "minScore": 40,
+        "maxScore": 54,
+        "title": "Developer（ディベロッパー）",
+        "subtitle": "IPO実現可能性：発展段階",
+        "description": "IPO実現には時間がかかりますが、適切な支援により大きく成長できる可能性があります。基盤作りに集中しましょう。",
+        "probability": 35,
+        "color": "#8B5CF6",
+        "icon": "🌱",
+        "recommendations": [
+          "事業の基盤固め",
+          "収益モデルの確立",
+          "プロダクト・マーケット・フィットの追求",
+          "初期チームの構築",
+          "基本的な財務管理の整備"
+        ],
+        "nextSteps": [
+          "事業基盤構築プログラム（3ヶ月）",
+          "スタートアップ基礎講座の受講",
+          "同世代起業家コミュニティへの参加"
+        ],
+        "timeline": "48-60ヶ月で本格的な成長フェーズへ"
+      },
+      {
+        "range": "starter",
+        "minScore": 0,
+        "maxScore": 39,
+        "title": "Starter（スターター）",
+        "subtitle": "IPO実現可能性：準備段階",
+        "description": "IPO実現は長期的な目標として設定し、まずは事業の基礎を固めることから始めましょう。大きな可能性を秘めています。",
+        "probability": 18,
+        "color": "#EF4444",
+        "icon": "🔥",
+        "recommendations": [
+          "アイデアの具体化と検証",
+          "市場調査とニーズ分析",
+          "最小限のプロダクト開発",
+          "起業・事業運営の基礎学習",
+          "メンターやアドバイザーの確保"
+        ],
+        "nextSteps": [
+          "起業準備集中プログラム（6ヶ月）",
+          "アイデア検証ワークショップ",
+          "若手起業家メンタリング"
+        ],
+        "timeline": "12-24ヶ月で事業基盤の確立"
+      }
+    ],
+    "detailedAnalysis": {
+      "strengthAreas": [
+        { "category": "basic", "title": "年齢・タイミング", "maxScore": 10 },
+        { "category": "business", "title": "ビジネスモデル", "maxScore": 25 },
+        { "category": "growth", "title": "成長戦略・資金調達", "maxScore": 20 },
+        { "category": "technology", "title": "技術・イノベーション", "maxScore": 15 },
+        { "category": "market", "title": "市場・競合優位性", "maxScore": 15 }
+      ],
+      "improvementSuggestions": {
+        "low_business_score": {
+          "threshold": 15,
+          "suggestions": [
+            "SaaS・サブスクリプションモデルの検討",
+            "スケーラブルなビジネスモデルへの転換",
+            "収益の多角化戦略"
+          ]
+        },
+        "low_growth_score": {
+          "threshold": 12,
+          "suggestions": [
+            "資金調達戦略の策定",
+            "IPOロードマップの作成",
+            "成長指標（KPI）の設定と管理"
+          ]
+        },
+        "low_technology_score": {
+          "threshold": 10,
+          "suggestions": [
+            "AI・テクノロジー活用の推進",
+            "技術的差別化の強化",
+            "デジタル変革の加速"
+          ]
+        },
+        "low_market_score": {
+          "threshold": 10,
+          "suggestions": [
+            "市場分析と成長性の再評価",
+            "競合優位性の明確化",
+            "ネットワーク効果の構築"
+          ]
+        }
+      }
+    },
+    "followUpActions": {
+      "immediate": [
+        "診断結果の詳細分析レポートをダウンロード",
+        "推奨される次のステップの優先順位付け",
+        "無料相談セッションの予約"
+      ],
+      "short_term": [
+        "改善点に基づく3ヶ月アクションプランの策定",
+        "必要なリソース・支援の特定",
+        "進捗測定指標の設定"
+      ],
+      "long_term": [
+        "IPOロードマップの詳細設計",
+        "定期的な進捗評価とプラン修正",
+        "業界ネットワーキングの強化"
+      ]
+    }
+  }
+}

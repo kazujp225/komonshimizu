@@ -1,0 +1,212 @@
+{
+  "assessment": {
+    "title": "IPO実現力診断（5分間）",
+    "subtitle": "あなたのビジネスのIPO実現可能性を診断します",
+    "estimatedTime": 5,
+    "totalQuestions": 12,
+    "sections": [
+      {
+        "sectionId": "basic",
+        "title": "基本情報",
+        "questions": [
+          {
+            "id": "Q001",
+            "type": "single",
+            "category": "basic",
+            "question": "現在のあなたの年齢を教えてください",
+            "options": [
+              { "value": "under20", "label": "20歳未満", "score": 8 },
+              { "value": "20-25", "label": "20-25歳", "score": 10 },
+              { "value": "26-30", "label": "26-30歳", "score": 9 },
+              { "value": "31-35", "label": "31-35歳", "score": 7 },
+              { "value": "over35", "label": "36歳以上", "score": 5 }
+            ],
+            "weight": 1.0
+          },
+          {
+            "id": "Q002", 
+            "type": "single",
+            "category": "basic",
+            "question": "現在のビジネス・事業ステージは？",
+            "options": [
+              { "value": "idea", "label": "アイデア段階", "score": 3 },
+              { "value": "planning", "label": "事業計画策定中", "score": 4 },
+              { "value": "startup", "label": "起業済み（1年未満）", "score": 6 },
+              { "value": "growth", "label": "成長期（1-5年）", "score": 8 },
+              { "value": "scale", "label": "スケール期（5年以上）", "score": 10 }
+            ],
+            "weight": 2.0
+          }
+        ]
+      },
+      {
+        "sectionId": "business",
+        "title": "ビジネスモデル",
+        "questions": [
+          {
+            "id": "Q003",
+            "type": "single",
+            "category": "business",
+            "question": "あなたのビジネスモデルは？",
+            "options": [
+              { "value": "saas", "label": "SaaS・サブスクリプション", "score": 10 },
+              { "value": "platform", "label": "プラットフォーム・マーケットプレイス", "score": 9 },
+              { "value": "ecommerce", "label": "EC・リテール", "score": 7 },
+              { "value": "consulting", "label": "コンサルティング・サービス", "score": 5 },
+              { "value": "manufacturing", "label": "製造・物販", "score": 6 },
+              { "value": "other", "label": "その他", "score": 4 }
+            ],
+            "weight": 1.5
+          },
+          {
+            "id": "Q004",
+            "type": "single", 
+            "category": "business",
+            "question": "現在の年商規模は？",
+            "options": [
+              { "value": "zero", "label": "まだ売上なし", "score": 2 },
+              { "value": "under1m", "label": "100万円未満", "score": 3 },
+              { "value": "1m-10m", "label": "100万円〜1,000万円", "score": 5 },
+              { "value": "10m-100m", "label": "1,000万円〜1億円", "score": 7 },
+              { "value": "over100m", "label": "1億円以上", "score": 10 }
+            ],
+            "weight": 2.0
+          },
+          {
+            "id": "Q005",
+            "type": "single",
+            "category": "business", 
+            "question": "あなたの事業分野は？",
+            "options": [
+              { "value": "tech", "label": "IT・テクノロジー", "score": 10 },
+              { "value": "fintech", "label": "フィンテック・金融", "score": 9 },
+              { "value": "biotech", "label": "バイオ・ヘルスケア", "score": 8 },
+              { "value": "cleantech", "label": "クリーンテック・エネルギー", "score": 9 },
+              { "value": "education", "label": "教育・エドテック", "score": 7 },
+              { "value": "other", "label": "その他", "score": 5 }
+            ],
+            "weight": 1.5
+          }
+        ]
+      },
+      {
+        "sectionId": "growth",
+        "title": "成長戦略",
+        "questions": [
+          {
+            "id": "Q006",
+            "type": "single",
+            "category": "growth",
+            "question": "IPOまでの期間目標は？",
+            "options": [
+              { "value": "3years", "label": "3年以内", "score": 10 },
+              { "value": "5years", "label": "5年以内", "score": 8 },
+              { "value": "7years", "label": "7年以内", "score": 6 },
+              { "value": "10years", "label": "10年以内", "score": 4 },
+              { "value": "undecided", "label": "未定・検討中", "score": 2 }
+            ],
+            "weight": 1.8
+          },
+          {
+            "id": "Q007",
+            "type": "single",
+            "category": "growth",
+            "question": "資金調達の経験は？",
+            "options": [
+              { "value": "series_b", "label": "シリーズB以降", "score": 10 },
+              { "value": "series_a", "label": "シリーズA", "score": 8 },
+              { "value": "seed", "label": "シード・エンジェル", "score": 6 },
+              { "value": "planning", "label": "調達検討中", "score": 4 },
+              { "value": "none", "label": "経験なし", "score": 2 }
+            ],
+            "weight": 1.7
+          },
+          {
+            "id": "Q008",
+            "type": "multiple",
+            "category": "growth", 
+            "question": "現在の主な課題は？（複数選択可）",
+            "options": [
+              { "value": "funding", "label": "資金調達", "score": 2 },
+              { "value": "marketing", "label": "マーケティング・集客", "score": 2 },
+              { "value": "product", "label": "プロダクト開発", "score": 2 },
+              { "value": "team", "label": "チームビルディング", "score": 2 },
+              { "value": "strategy", "label": "事業戦略", "score": 2 },
+              { "value": "operations", "label": "業務効率化", "score": 1 }
+            ],
+            "weight": 1.0
+          }
+        ]
+      },
+      {
+        "sectionId": "technology",
+        "title": "技術・イノベーション",
+        "questions": [
+          {
+            "id": "Q009",
+            "type": "single",
+            "category": "technology",
+            "question": "AI・テクノロジーの活用レベルは？",
+            "options": [
+              { "value": "advanced", "label": "独自AI・機械学習を開発", "score": 10 },
+              { "value": "integration", "label": "既存AIツールを積極活用", "score": 8 },
+              { "value": "basic", "label": "基本的なツールを使用", "score": 6 },
+              { "value": "planning", "label": "導入を検討中", "score": 4 },
+              { "value": "none", "label": "ほとんど活用していない", "score": 2 }
+            ],
+            "weight": 1.5
+          },
+          {
+            "id": "Q010",
+            "type": "single",
+            "category": "technology",
+            "question": "あなたの事業の技術的差別化は？",
+            "options": [
+              { "value": "breakthrough", "label": "画期的な技術・特許あり", "score": 10 },
+              { "value": "competitive", "label": "競合より優れた技術", "score": 8 },
+              { "value": "standard", "label": "業界標準レベル", "score": 6 },
+              { "value": "catching_up", "label": "競合に追いつき中", "score": 4 },
+              { "value": "behind", "label": "技術面で課題あり", "score": 2 }
+            ],
+            "weight": 1.6
+          }
+        ]
+      },
+      {
+        "sectionId": "market",
+        "title": "市場・競合",
+        "questions": [
+          {
+            "id": "Q011",
+            "type": "single",
+            "category": "market",
+            "question": "ターゲット市場の成長性は？",
+            "options": [
+              { "value": "explosive", "label": "爆発的成長（年50%以上）", "score": 10 },
+              { "value": "high", "label": "高成長（年20-50%）", "score": 8 },
+              { "value": "moderate", "label": "安定成長（年10-20%）", "score": 6 },
+              { "value": "slow", "label": "緩やか（年10%未満）", "score": 4 },
+              { "value": "decline", "label": "縮小傾向", "score": 2 }
+            ],
+            "weight": 1.4
+          },
+          {
+            "id": "Q012",
+            "type": "single",
+            "category": "market",
+            "question": "競合優位性の源泉は？",
+            "options": [
+              { "value": "network", "label": "ネットワーク効果", "score": 10 },
+              { "value": "data", "label": "データ・AIの優位性", "score": 9 },
+              { "value": "cost", "label": "コスト効率性", "score": 7 },
+              { "value": "brand", "label": "ブランド・顧客基盤", "score": 8 },
+              { "value": "speed", "label": "開発・実行スピード", "score": 6 },
+              { "value": "unclear", "label": "まだ不明確", "score": 3 }
+            ],
+            "weight": 1.5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "industries": [
+    {
+      "id": "tech",
+      "name": "IT・ソフトウェア",
+      "marketSize": 15600000000000,
+      "growthRate": 12.3,
+      "ipoCount2023": 28,
+      "averageValuation": 89000000000,
+      "keyTrends": [
+        "AI・機械学習の実用化",
+        "SaaS市場の拡大",
+        "デジタル変革の加速",
+        "リモートワーク需要"
+      ],
+      "competitionLevel": "高",
+      "entryBarriers": "中",
+      "regulatoryRisk": "低",
+      "successFactors": [
+        "技術革新力",
+        "スケーラビリティ",
+        "顧客獲得コスト効率",
+        "データ活用能力"
+      ],
+      "majorPlayers": [
+        "マイクロソフト",
+        "Google",
+        "Amazon",
+        "サイボウズ"
+      ],
+      "investmentHotness": 9.2,
+      "timeToIPO": 6.8
+    },
+    {
+      "id": "ecommerce",
+      "name": "EC・リテール",
+      "marketSize": 22400000000000,
+      "growthRate": 15.7,
+      "ipoCount2023": 12,
+      "averageValuation": 142000000000,
+      "keyTrends": [
+        "オムニチャネル化",
+        "ライブコマース",
+        "サステナブル商品",
+        "パーソナライゼーション"
+      ],
+      "competitionLevel": "非常に高",
+      "entryBarriers": "中",
+      "regulatoryRisk": "中",
+      "successFactors": [
+        "物流効率化",
+        "顧客体験",
+        "マーケティング力",
+        "在庫管理"
+      ],
+      "majorPlayers": [
+        "Amazon",
+        "楽天",
+        "ZOZO",
+        "メルカリ"
+      ],
+      "investmentHotness": 8.6,
+      "timeToIPO": 7.2
+    },
+    {
+      "id": "biotech",
+      "name": "バイオテクノロジー",
+      "marketSize": 8900000000000,
+      "growthRate": 18.4,
+      "ipoCount2023": 8,
+      "averageValuation": 156000000000,
+      "keyTrends": [
+        "細胞・遺伝子治療",
+        "精密医療",
+        "AIドラッグデザイン",
+        "バイオマーカー診断"
+      ],
+      "competitionLevel": "中",
+      "entryBarriers": "非常に高",
+      "regulatoryRisk": "非常に高",
+      "successFactors": [
+        "研究開発力",
+        "規制対応",
+        "特許ポートフォリオ",
+        "パートナーシップ"
+      ],
+      "majorPlayers": [
+        "武田薬品",
+        "第一三共",
+        "中外製薬",
+        "そーせいグループ"
+      ],
+      "investmentHotness": 7.8,
+      "timeToIPO": 12.5
+    },
+    {
+      "id": "cleantech",
+      "name": "再生可能エネルギー",
+      "marketSize": 34200000000000,
+      "growthRate": 25.6,
+      "ipoCount2023": 15,
+      "averageValuation": 78000000000,
+      "keyTrends": [
+        "脱炭素政策",
+        "蓄電技術革新",
+        "水素エネルギー",
+        "スマートグリッド"
+      ],
+      "competitionLevel": "中",
+      "entryBarriers": "高",
+      "regulatoryRisk": "中",
+      "successFactors": [
+        "技術効率性",
+        "コスト競争力",
+        "政策対応",
+        "事業スケール"
+      ],
+      "majorPlayers": [
+        "Tesla",
+        "BYD",
+        "エネオス",
+        "出光興産"
+      ],
+      "investmentHotness": 9.5,
+      "timeToIPO": 8.3
+    },
+    {
+      "id": "fintech",
+      "name": "金融・フィンテック",
+      "marketSize": 45600000000000,
+      "growthRate": 19.8,
+      "ipoCount2023": 22,
+      "averageValuation": 67000000000,
+      "keyTrends": [
+        "デジタル決済",
+        "ネオバンク",
+        "暗号資産",
+        "インシュアテック"
+      ],
+      "competitionLevel": "非常に高",
+      "entryBarriers": "非常に高",
+      "regulatoryRisk": "非常に高",
+      "successFactors": [
+        "規制対応力",
+        "セキュリティ",
+        "顧客獲得",
+        "提携戦略"
+      ],
+      "majorPlayers": [
+        "PayPay",
+        "マネーフォワード",
+        "freee",
+        "SBI Holdings"
+      ],
+      "investmentHotness": 8.1,
+      "timeToIPO": 9.1
+    }
+  ],
+  "marketOverview": {
+    "totalMarketSize": 127700000000000,
+    "averageGrowthRate": 18.4,
+    "hotestSector": "再生可能エネルギー",
+    "mostCompetitive": "EC・リテール",
+    "highestBarriers": "バイオテクノロジー",
+    "fastestToIPO": "IT・ソフトウェア"
+  }
+}

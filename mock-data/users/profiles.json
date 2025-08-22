@@ -1,0 +1,228 @@
+{
+  "userProfiles": {
+    "demographics": {
+      "ageGroups": [
+        {
+          "range": "20-25",
+          "label": "20代前半",
+          "characteristics": ["デジタルネイティブ", "高い学習意欲", "リスク許容度高"],
+          "commonChallenges": ["経験不足", "資金調達", "チーム構築"],
+          "percentage": 25
+        },
+        {
+          "range": "26-30", 
+          "label": "20代後半",
+          "characteristics": ["実務経験あり", "ネットワーク構築中", "成長意欲旺盛"],
+          "commonChallenges": ["市場理解", "スケール戦略", "組織管理"],
+          "percentage": 40
+        },
+        {
+          "range": "31-35",
+          "label": "30代前半",
+          "characteristics": ["業界経験豊富", "安定志向", "戦略的思考"],
+          "commonChallenges": ["イノベーション", "変化対応", "若手との連携"],
+          "percentage": 30
+        },
+        {
+          "range": "36+",
+          "label": "30代後半以上",
+          "characteristics": ["豊富な人脈", "資本へのアクセス", "業界知見"],
+          "commonChallenges": ["技術適応", "新市場理解", "世代間ギャップ"],
+          "percentage": 5
+        }
+      ],
+      "genderDistribution": {
+        "male": 65,
+        "female": 32,
+        "other": 3
+      },
+      "locationDistribution": {
+        "東京圏": 58,
+        "大阪圏": 15,
+        "名古屋圏": 8,
+        "福岡": 6,
+        "その他地方": 13
+      }
+    },
+    "businessStages": [
+      {
+        "stage": "idea",
+        "label": "アイデア段階",
+        "description": "ビジネスアイデアの検証・具体化中",
+        "typicalChallenges": ["市場調査", "アイデア検証", "初期資金"],
+        "averageDuration": 6,
+        "nextStage": "planning",
+        "percentage": 15
+      },
+      {
+        "stage": "planning",
+        "label": "事業計画段階",
+        "description": "事業計画策定・資金調達準備中",
+        "typicalChallenges": ["事業計画", "資金調達", "チーム組成"],
+        "averageDuration": 8,
+        "nextStage": "startup",
+        "percentage": 20
+      },
+      {
+        "stage": "startup",
+        "label": "スタートアップ期",
+        "description": "起業済み、初期顧客獲得中",
+        "typicalChallenges": ["プロダクト開発", "顧客獲得", "運転資金"],
+        "averageDuration": 18,
+        "nextStage": "growth",
+        "percentage": 30
+      },
+      {
+        "stage": "growth",
+        "label": "成長期",
+        "description": "事業拡大、組織成長中",
+        "typicalChallenges": ["スケーリング", "組織管理", "競合対応"],
+        "averageDuration": 36,
+        "nextStage": "scale",
+        "percentage": 25
+      },
+      {
+        "stage": "scale",
+        "label": "スケール期",
+        "description": "IPO準備、本格成長中",
+        "typicalChallenges": ["IPO準備", "ガバナンス", "市場拡大"],
+        "averageDuration": 24,
+        "nextStage": "ipo",
+        "percentage": 10
+      }
+    ],
+    "industryProfiles": [
+      {
+        "industry": "tech",
+        "label": "IT・テクノロジー",
+        "characteristics": {
+          "averageFounderAge": 28,
+          "timeToRevenue": 8,
+          "capitalIntensity": "medium",
+          "regulatoryComplexity": "low",
+          "scalability": "high"
+        },
+        "commonBusinessModels": ["SaaS", "プラットフォーム", "API"],
+        "keySuccessFactors": ["技術革新", "ユーザー体験", "スケーラビリティ"],
+        "percentage": 35
+      },
+      {
+        "industry": "fintech",
+        "label": "フィンテック",
+        "characteristics": {
+          "averageFounderAge": 31,
+          "timeToRevenue": 12,
+          "capitalIntensity": "high",
+          "regulatoryComplexity": "very_high",
+          "scalability": "high"
+        },
+        "commonBusinessModels": ["決済", "融資", "投資"],
+        "keySuccessFactors": ["規制対応", "セキュリティ", "信頼性"],
+        "percentage": 20
+      },
+      {
+        "industry": "healthcare",
+        "label": "ヘルスケア",
+        "characteristics": {
+          "averageFounderAge": 34,
+          "timeToRevenue": 18,
+          "capitalIntensity": "very_high",
+          "regulatoryComplexity": "very_high",
+          "scalability": "medium"
+        },
+        "commonBusinessModels": ["診断", "治療", "プラットフォーム"],
+        "keySuccessFactors": ["薬事承認", "臨床データ", "医療従事者との関係"],
+        "percentage": 15
+      },
+      {
+        "industry": "cleantech",
+        "label": "クリーンテクノロジー",
+        "characteristics": {
+          "averageFounderAge": 30,
+          "timeToRevenue": 15,
+          "capitalIntensity": "very_high",
+          "regulatoryComplexity": "high",
+          "scalability": "high"
+        },
+        "commonBusinessModels": ["製造", "サービス", "ライセンシング"],
+        "keySuccessFactors": ["技術革新", "コスト効率", "政策対応"],
+        "percentage": 15
+      },
+      {
+        "industry": "other",
+        "label": "その他",
+        "characteristics": {
+          "averageFounderAge": 32,
+          "timeToRevenue": 12,
+          "capitalIntensity": "medium",
+          "regulatoryComplexity": "medium",
+          "scalability": "medium"
+        },
+        "percentage": 15
+      }
+    ],
+    "userJourney": {
+      "awareness": {
+        "touchpoints": ["SEO検索", "SNS広告", "紹介", "イベント"],
+        "duration": "1-3ヶ月",
+        "keyContent": ["ブログ記事", "事例紹介", "動画コンテンツ"]
+      },
+      "consideration": {
+        "touchpoints": ["5分診断", "無料相談", "資料ダウンロード"],
+        "duration": "2-4週間",
+        "keyContent": ["診断結果", "個別提案", "ROI計算"]
+      },
+      "decision": {
+        "touchpoints": ["プラン比較", "契約相談", "トライアル"],
+        "duration": "1-2週間",
+        "keyFactors": ["価格", "サポート内容", "実績"]
+      },
+      "onboarding": {
+        "duration": "2-4週間",
+        "milestones": ["初回診断", "戦略設計", "KPI設定"],
+        "successMetrics": ["理解度", "満足度", "次回予約率"]
+      },
+      "growth": {
+        "duration": "継続",
+        "activities": ["定期診断", "コンサルティング", "進捗レビュー"],
+        "retentionFactors": ["結果実感", "サポート満足度", "ROI実現"]
+      }
+    },
+    "segmentation": {
+      "byValue": {
+        "high_value": {
+          "criteria": "LTV > ¥15,000,000",
+          "percentage": 20,
+          "characteristics": ["Enterprise顧客", "IPO直前", "高成長"]
+        },
+        "medium_value": {
+          "criteria": "LTV ¥5,000,000 - ¥15,000,000",
+          "percentage": 50,
+          "characteristics": ["Professional顧客", "成長期", "安定収益"]
+        },
+        "low_value": {
+          "criteria": "LTV < ¥5,000,000",
+          "percentage": 30,
+          "characteristics": ["Starter顧客", "初期段階", "価格重視"]
+        }
+      },
+      "byEngagement": {
+        "champions": {
+          "criteria": "NPS ≥ 9, 高活用率",
+          "percentage": 25,
+          "behavior": ["積極的な相談", "推薦", "長期継続"]
+        },
+        "satisfied": {
+          "criteria": "NPS 7-8, 通常活用",
+          "percentage": 50,
+          "behavior": ["定期的な利用", "普通の満足度"]
+        },
+        "at_risk": {
+          "criteria": "NPS ≤ 6, 低活用率",
+          "percentage": 25,
+          "behavior": ["利用頻度低下", "解約検討", "不満表明"]
+        }
+      }
+    }
+  }
+}

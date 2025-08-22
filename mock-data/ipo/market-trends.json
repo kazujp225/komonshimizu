@@ -1,0 +1,125 @@
+{
+  "marketTrends": {
+    "ipoActivity": {
+      "2024": {
+        "totalIPOs": 89,
+        "totalRaised": 2340000000000,
+        "averageDealSize": 26300000000,
+        "successRate": 78.2,
+        "sectors": {
+          "テクノロジー": 34,
+          "ヘルスケア": 18,
+          "フィンテック": 15,
+          "クリーンテック": 12,
+          "その他": 10
+        }
+      },
+      "2023": {
+        "totalIPOs": 76,
+        "totalRaised": 1890000000000,
+        "averageDealSize": 24900000000,
+        "successRate": 82.1,
+        "sectors": {
+          "テクノロジー": 28,
+          "ヘルスケア": 16,
+          "フィンテック": 14,
+          "クリーンテック": 8,
+          "その他": 10
+        }
+      },
+      "2022": {
+        "totalIPOs": 52,
+        "totalRaised": 1230000000000,
+        "averageDealSize": 23700000000,
+        "successRate": 65.4,
+        "sectors": {
+          "テクノロジー": 19,
+          "ヘルスケア": 12,
+          "フィンテック": 9,
+          "クリーンテック": 6,
+          "その他": 6
+        }
+      }
+    },
+    "founderAgeDistribution": {
+      "20-25": 15,
+      "26-30": 32,
+      "31-35": 28,
+      "36-40": 18,
+      "41+": 7
+    },
+    "successMetrics": {
+      "averageTimeToIPO": 8.4,
+      "medianValuationAtIPO": 45000000000,
+      "postIPOGrowth": {
+        "1year": 34.6,
+        "3years": 127.3,
+        "5years": 245.8
+      }
+    },
+    "keyTrends": [
+      {
+        "trend": "若手経営者の増加",
+        "description": "30歳以下の経営者によるIPOが全体の47%を占める",
+        "impact": "高",
+        "timeline": "継続中"
+      },
+      {
+        "trend": "AI・テクノロジー企業の優遇",
+        "description": "投資家の関心がAI・機械学習企業に集中",
+        "impact": "非常に高",
+        "timeline": "2024年～"
+      },
+      {
+        "trend": "ESG・サステナビリティ重視",
+        "description": "環境・社会・ガバナンスを重視する企業が高評価",
+        "impact": "中",
+        "timeline": "2023年～"
+      },
+      {
+        "trend": "グローバル展開企業の増加",
+        "description": "海外市場を視野に入れた企業のIPOが増加",
+        "impact": "高",
+        "timeline": "継続中"
+      },
+      {
+        "trend": "SaaS・サブスクリプションモデル",
+        "description": "安定収益モデルとして高く評価される",
+        "impact": "高",
+        "timeline": "2022年～"
+      }
+    ],
+    "investorSentiment": {
+      "overall": "楽観的",
+      "riskAppetite": "中程度",
+      "preferredSectors": [
+        "AI・機械学習",
+        "クリーンテクノロジー",
+        "バイオテクノロジー",
+        "フィンテック"
+      ],
+      "concerns": [
+        "金利上昇",
+        "地政学的リスク",
+        "規制強化"
+      ]
+    },
+    "predictedTrends2025": [
+      {
+        "prediction": "IPO件数20%増加",
+        "confidence": 0.75,
+        "drivers": ["経済回復", "新興企業の成熟"]
+      },
+      {
+        "prediction": "AI企業の平均バリュエーション2倍",
+        "confidence": 0.68,
+        "drivers": ["AI需要拡大", "技術革新加速"]
+      },
+      {
+        "prediction": "20代経営者IPOが50%突破",
+        "confidence": 0.82,
+        "drivers": ["デジタルネイティブ世代", "起業環境改善"]
+      }
+    ]
+  }
+}

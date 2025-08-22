@@ -1,0 +1,263 @@
+{
+  "kpiDashboard": {
+    "lastUpdated": "2024-12-21T09:00:00Z",
+    "period": "2024-12",
+    "revenue": {
+      "monthly": {
+        "current": {
+          "mrr": 8750000,
+          "arr": 105000000,
+          "newCustomers": 8,
+          "churnedCustomers": 1,
+          "netRevenue": 8750000,
+          "averageDealSize": 3125000,
+          "churnRate": 4.2
+        },
+        "target": {
+          "mrr": 10000000,
+          "arr": 120000000,
+          "newCustomers": 10,
+          "churnedCustomers": 1,
+          "netRevenue": 10000000,
+          "averageDealSize": 3600000,
+          "churnRate": 5.0
+        },
+        "variance": {
+          "mrr": -12.5,
+          "arr": -12.5,
+          "newCustomers": -20.0,
+          "churnRate": 16.0
+        }
+      },
+      "yearly": {
+        "2024": {
+          "totalRevenue": 89250000,
+          "newCustomerRevenue": 67500000,
+          "expansionRevenue": 21750000,
+          "churnedRevenue": 12500000,
+          "netRevenueRetention": 116.8
+        },
+        "2023": {
+          "totalRevenue": 45600000,
+          "newCustomerRevenue": 39800000,
+          "expansionRevenue": 5800000,
+          "churnedRevenue": 8200000,
+          "netRevenueRetention": 108.2
+        }
+      },
+      "trending": {
+        "mrrGrowth": [
+          { "month": "2024-06", "value": 4200000 },
+          { "month": "2024-07", "value": 5100000 },
+          { "month": "2024-08", "value": 5850000 },
+          { "month": "2024-09", "value": 6750000 },
+          { "month": "2024-10", "value": 7800000 },
+          { "month": "2024-11", "value": 8200000 },
+          { "month": "2024-12", "value": 8750000 }
+        ]
+      }
+    },
+    "pipeline": {
+      "current": {
+        "qualifiedLeads": 42,
+        "opportunitiesInPipeline": 35,
+        "totalPipelineValue": 126000000,
+        "averageDealSize": 3600000,
+        "salesCycleLength": 68,
+        "winRate": 18.5,
+        "lostRate": 12.3,
+        "activelyNegotiating": 12
+      },
+      "targets": {
+        "qualifiedLeads": 45,
+        "winRate": 20.0,
+        "averageDealSize": 3600000,
+        "salesCycleLength": 65
+      },
+      "stages": [
+        {
+          "stage": "qualified_lead",
+          "count": 42,
+          "value": 151200000,
+          "averageTimeInStage": 14,
+          "conversionRate": 78.5
+        },
+        {
+          "stage": "discovery",
+          "count": 35,
+          "value": 126000000,
+          "averageTimeInStage": 18,
+          "conversionRate": 65.2
+        },
+        {
+          "stage": "proposal", 
+          "count": 22,
+          "value": 79200000,
+          "averageTimeInStage": 21,
+          "conversionRate": 54.5
+        },
+        {
+          "stage": "negotiation",
+          "count": 12,
+          "value": 43200000,
+          "averageTimeInStage": 15,
+          "conversionRate": 72.7
+        }
+      ],
+      "funnel": {
+        "website_visitors": 12580,
+        "leads": 315,
+        "qualified_leads": 42,
+        "opportunities": 35,
+        "closed_won": 8
+      }
+    },
+    "marketing": {
+      "website": {
+        "sessions": 9850,
+        "users": 7420,
+        "pageviews": 28450,
+        "bounceRate": 42.3,
+        "averageSessionDuration": 185,
+        "conversionRate": 1.87,
+        "organicTraffic": 6890,
+        "paidTraffic": 2960
+      },
+      "targets": {
+        "sessions": 10000,
+        "conversionRate": 2.0,
+        "organicTraffic": 7000
+      },
+      "leadSources": [
+        { "source": "organic_search", "leads": 156, "percentage": 49.5 },
+        { "source": "paid_ads", "leads": 89, "percentage": 28.3 },
+        { "source": "referrals", "leads": 47, "percentage": 14.9 },
+        { "source": "social_media", "leads": 23, "percentage": 7.3 }
+      ],
+      "content": {
+        "blogPosts": 28,
+        "videos": 15,
+        "whitepapers": 3,
+        "caseStudies": 2,
+        "totalViews": 45680,
+        "totalShares": 1230,
+        "totalDownloads": 890
+      },
+      "campaigns": [
+        {
+          "name": "IPO診断キャンペーン",
+          "status": "active",
+          "budget": 1500000,
+          "spent": 1320000,
+          "leads": 89,
+          "cpl": 14831,
+          "roi": 2.4
+        },
+        {
+          "name": "年商1億円達成セミナー",
+          "status": "completed",
+          "budget": 800000,
+          "spent": 750000,
+          "leads": 47,
+          "cpl": 15957,
+          "roi": 3.1
+        }
+      ]
+    },
+    "operations": {
+      "customerSuccess": {
+        "nps": 8.2,
+        "csat": 4.6,
+        "churnRate": 4.2,
+        "expansionRate": 125.6,
+        "supportTickets": 23,
+        "averageResponseTime": 4.2,
+        "firstCallResolution": 87.5
+      },
+      "team": {
+        "totalEmployees": 12,
+        "sales": 3,
+        "marketing": 2,
+        "product": 4,
+        "customerSuccess": 2,
+        "admin": 1
+      },
+      "efficiency": {
+        "revenuePerEmployee": 7437500,
+        "salesVelocity": 890000,
+        "marketingCostPerLead": 15234,
+        "customerAcquisitionCost": 125000,
+        "lifetimeValue": 8950000,
+        "ltvToCacRatio": 71.6
+      }
+    },
+    "forecasting": {
+      "next3Months": {
+        "2025-01": {
+          "predictedMrr": 9250000,
+          "predictedNewCustomers": 9,
+          "confidence": 85
+        },
+        "2025-02": {
+          "predictedMrr": 9800000,
+          "predictedNewCustomers": 10,
+          "confidence": 78
+        },
+        "2025-03": {
+          "predictedMrr": 10500000,
+          "predictedNewCustomers": 12,
+          "confidence": 72
+        }
+      },
+      "yearEnd2025": {
+        "targetArr": 150000000,
+        "requiredGrowthRate": 42.9,
+        "probabilityOfSuccess": 76.3,
+        "keyRisks": [
+          "市場競争激化",
+          "人材確保難",
+          "経済環境変化"
+        ]
+      }
+    },
+    "benchmarks": {
+      "industry": {
+        "averageMrr": 6500000,
+        "averageWinRate": 15.2,
+        "averageChurnRate": 7.8,
+        "averageCac": 156000,
+        "averageLtv": 4200000
+      },
+      "performance": {
+        "mrrVsIndustry": 34.6,
+        "winRateVsIndustry": 21.7,
+        "churnRateVsIndustry": -46.2,
+        "cacVsIndustry": -19.9,
+        "ltvVsIndustry": 113.1
+      }
+    },
+    "alerts": [
+      {
+        "type": "warning",
+        "metric": "新規顧客獲得",
+        "message": "今月の新規顧客獲得が目標を20%下回っています",
+        "severity": "medium",
+        "actionRequired": true
+      },
+      {
+        "type": "success", 
+        "metric": "チャーン率",
+        "message": "チャーン率が目標を16%上回る良好な結果です",
+        "severity": "low",
+        "actionRequired": false
+      },
+      {
+        "type": "info",
+        "metric": "パイプライン",
+        "message": "Q1の予算達成確率が76%です",
+        "severity": "low",
+        "actionRequired": false
+      }
+    ]
+  }
+}

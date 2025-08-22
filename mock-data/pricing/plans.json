@@ -1,0 +1,313 @@
+{
+  "pricingPlans": {
+    "currency": "JPY",
+    "billingCycles": ["monthly", "quarterly", "annually"],
+    "plans": [
+      {
+        "id": "starter",
+        "name": "HANATABA Starter",
+        "subtitle": "起業・成長の第一歩",
+        "category": "Good",
+        "targetAudience": "起業準備中〜年商1,000万円未満",
+        "pricing": {
+          "monthly": 298000,
+          "quarterly": 798000,
+          "annually": 2980000,
+          "setup_fee": 0
+        },
+        "originalPrice": {
+          "monthly": 398000,
+          "quarterly": 1098000,
+          "annually": 3980000
+        },
+        "discount": {
+          "percentage": 25,
+          "validUntil": "2025-03-31",
+          "reason": "新春キャンペーン"
+        },
+        "popular": false,
+        "features": [
+          {
+            "category": "診断・分析",
+            "items": [
+              "月1回のIPO診断レポート",
+              "基本的なビジネス分析",
+              "成長ポテンシャル評価",
+              "改善提案（月3項目まで）"
+            ]
+          },
+          {
+            "category": "コンテンツ・学習",
+            "items": [
+              "起業基礎講座アクセス",
+              "IPO準備チェックリスト",
+              "業界分析レポート（月1本）",
+              "成功事例スタディ"
+            ]
+          },
+          {
+            "category": "サポート",
+            "items": [
+              "メール相談（月5回まで）",
+              "オンラインセミナー参加",
+              "基本FAQ・ナレッジベース"
+            ]
+          }
+        ],
+        "limitations": [
+          "1対1のコンサルティングなし",
+          "カスタム分析レポートなし",
+          "専任アドバイザーなし"
+        ],
+        "cta": "まずは基礎から始める",
+        "guarantee": "30日間返金保証"
+      },
+      {
+        "id": "professional",
+        "name": "HANATABA Professional", 
+        "subtitle": "本格的なIPO準備",
+        "category": "Better",
+        "targetAudience": "年商1,000万円〜5億円",
+        "pricing": {
+          "monthly": 898000,
+          "quarterly": 2398000,
+          "annually": 8980000,
+          "setup_fee": 500000
+        },
+        "originalPrice": {
+          "monthly": 1198000,
+          "quarterly": 3198000,
+          "annually": 11980000
+        },
+        "discount": {
+          "percentage": 25,
+          "validUntil": "2025-03-31",
+          "reason": "新春キャンペーン"
+        },
+        "popular": true,
+        "mostPopularReason": "最も選ばれているプラン",
+        "features": [
+          {
+            "category": "診断・分析",
+            "items": [
+              "週次IPO診断レポート",
+              "詳細なビジネス分析",
+              "競合比較分析",
+              "財務健全性診断",
+              "AIによる成長予測",
+              "改善提案（月10項目まで）"
+            ]
+          },
+          {
+            "category": "戦略・コンサルティング", 
+            "items": [
+              "月2回の1対1コンサルティング（各90分）",
+              "IPOロードマップ策定",
+              "資金調達戦略立案",
+              "組織・ガバナンス設計支援"
+            ]
+          },
+          {
+            "category": "コンテンツ・学習",
+            "items": [
+              "全講座・教材への無制限アクセス",
+              "カスタム業界分析レポート",
+              "同業他社ベンチマーク分析",
+              "IPO事例の詳細ケーススタディ"
+            ]
+          },
+          {
+            "category": "サポート",
+            "items": [
+              "24時間以内のメール返信保証",
+              "月次進捗レビュー会議",
+              "専用Slackチャンネル",
+              "優先サポート"
+            ]
+          }
+        ],
+        "bonuses": [
+          "初回戦略セッション（3時間・無料）",
+          "IPO準備チェックシート（100項目）",
+          "専任アドバイザーのアサイン"
+        ],
+        "cta": "本格的にIPOを目指す",
+        "guarantee": "60日間返金保証"
+      },
+      {
+        "id": "enterprise",
+        "name": "HANATABA Enterprise",
+        "subtitle": "IPO実現への最短ルート",
+        "category": "Best", 
+        "targetAudience": "年商5億円以上・IPO直前企業",
+        "pricing": {
+          "monthly": 1998000,
+          "quarterly": 5398000,
+          "annually": 19980000,
+          "setup_fee": 1000000
+        },
+        "originalPrice": {
+          "monthly": 2498000,
+          "quarterly": 6898000,
+          "annually": 24980000
+        },
+        "discount": {
+          "percentage": 20,
+          "validUntil": "2025-03-31", 
+          "reason": "新春キャンペーン"
+        },
+        "popular": false,
+        "premiumTag": "最高峰のサポート",
+        "features": [
+          {
+            "category": "診断・分析",
+            "items": [
+              "リアルタイムIPO診断ダッシュボード",
+              "AIによる高度なビジネス分析",
+              "詳細な財務・法務診断",
+              "市場・投資家動向分析",
+              "リスク要因の網羅的評価",
+              "無制限の改善提案・アドバイス"
+            ]
+          },
+          {
+            "category": "戦略・コンサルティング",
+            "items": [
+              "週1回の1対1コンサルティング（各120分）",
+              "IPO戦略の完全設計・実行支援",
+              "証券会社・監査法人の紹介",
+              "IRストーリー策定・ブラッシュアップ",
+              "投資家向けピッチ資料作成支援"
+            ]
+          },
+          {
+            "category": "専門家チーム",
+            "items": [
+              "IPO経験者専任アドバイザー",
+              "公認会計士との連携サポート",
+              "弁護士・税理士ネットワーク",
+              "IR専門家によるサポート"
+            ]
+          },
+          {
+            "category": "実行支援",
+            "items": [
+              "IPO準備プロジェクト管理",
+              "月次取締役会への参加・助言",
+              "投資家紹介・マッチング",
+              "IPO後の成長戦略立案"
+            ]
+          },
+          {
+            "category": "プレミアムサポート",
+            "items": [
+              "12時間以内の緊急対応",
+              "専用チームによる伴走支援",
+              "月次エグゼクティブレビュー",
+              "優先的な専門家紹介"
+            ]
+          }
+        ],
+        "bonuses": [
+          "IPO戦略策定集中セッション（5時間×3回）",
+          "投資家向けピッチ練習セッション",
+          "IPO経験者との1対1メンタリング",
+          "上場後1年間のアフターサポート"
+        ],
+        "cta": "IPOを確実に実現する",
+        "guarantee": "90日間返金保証 + IPO達成保証制度"
+      }
+    ],
+    "addOns": [
+      {
+        "id": "additional_consultation",
+        "name": "追加コンサルティング",
+        "price": 150000,
+        "unit": "per_session_90min",
+        "description": "90分の追加1対1コンサルティング"
+      },
+      {
+        "id": "custom_analysis",
+        "name": "カスタム分析レポート",
+        "price": 300000,
+        "unit": "per_report",
+        "description": "特定テーマに関する詳細分析レポート"
+      },
+      {
+        "id": "investor_introduction",
+        "name": "投資家紹介サービス",
+        "price": 500000,
+        "unit": "per_introduction",
+        "description": "適切な投資家・VCとのマッチング"
+      },
+      {
+        "id": "pitch_coaching",
+        "name": "ピッチコーチング",
+        "price": 200000,
+        "unit": "per_session_3hours",
+        "description": "投資家向けピッチの個別指導"
+      }
+    ],
+    "comparisonMatrix": {
+      "diagnosis_frequency": {
+        "starter": "月1回",
+        "professional": "週1回",
+        "enterprise": "リアルタイム"
+      },
+      "consultation_hours": {
+        "starter": "0時間/月",
+        "professional": "3時間/月",
+        "enterprise": "8時間/月"
+      },
+      "response_time": {
+        "starter": "48時間以内",
+        "professional": "24時間以内",
+        "enterprise": "12時間以内"
+      },
+      "advisor_level": {
+        "starter": "なし",
+        "professional": "シニアアドバイザー",
+        "enterprise": "IPO経験者・専門家チーム"
+      },
+      "success_guarantee": {
+        "starter": "返金保証のみ",
+        "professional": "返金保証のみ",
+        "enterprise": "IPO達成保証制度あり"
+      }
+    },
+    "faq": [
+      {
+        "question": "契約期間はどのくらいですか？",
+        "answer": "最低契約期間は3ヶ月です。その後は月次での継続・解約が可能です。"
+      },
+      {
+        "question": "途中でプランを変更できますか？",
+        "answer": "はい、いつでもプラン変更可能です。アップグレードは即座に、ダウングレードは次の更新時から適用されます。"
+      },
+      {
+        "question": "返金保証の条件を教えてください",
+        "answer": "サービス開始から30-90日以内（プランにより異なる）であれば、理由を問わず全額返金いたします。"
+      },
+      {
+        "question": "IPO達成保証制度とは何ですか？",
+        "answer": "Enterpriseプランでは、3年以内にIPO条件を満たしながらIPOが実現しなかった場合、サービス料金を全額返金いたします。"
+      }
+    ],
+    "testimonials": [
+      {
+        "company": "テクノロジーソリューション株式会社",
+        "ceo": "田中 健太",
+        "plan": "professional",
+        "quote": "HANATABAのおかげで、IPOに向けた戦略が明確になり、2年間で計画通りに上場を実現できました。",
+        "result": "2023年12月IPO達成"
+      },
+      {
+        "company": "グローバルEコマース株式会社", 
+        "ceo": "佐藤 美咲",
+        "plan": "enterprise",
+        "quote": "専門家チームによる伴走支援により、IPO準備プロセスをスムーズに進めることができました。",
+        "result": "2024年3月IPO達成"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "profile": {
+        "name": "田中 健太",
+        "age": 29,
+        "gender": "male",
+        "location": "東京都渋谷区",
+        "avatar": "https://example.com/avatars/tanaka.jpg"
+      },
+      "company": {
+        "name": "NextGen AI Solutions",
+        "industry": "AI・機械学習",
+        "foundedDate": "2021-08-15",
+        "employeeCount": 25,
+        "businessModel": "SaaS",
+        "currentRevenue": 120000000,
+        "targetRevenue": 1000000000
+      },
+      "subscription": {
+        "plan": "professional",
+        "startDate": "2024-06-01",
+        "status": "active",
+        "monthlyValue": 898000,
+        "totalLifetimeValue": 8082000,
+        "churnRisk": "low"
+      },
+      "assessment": {
+        "score": 78,
+        "category": "rising_star",
+        "lastAssessment": "2024-11-15",
+        "improvementAreas": ["technology", "funding"]
+      },
+      "engagement": {
+        "consultationsSoFar": 12,
+        "lastLogin": "2024-12-20",
+        "responseRate": 95,
+        "satisfactionScore": 4.8,
+        "npsScore": 9
+      },
+      "milestones": [
+        {
+          "date": "2024-07-01",
+          "achievement": "シリーズAラウンド完了（5億円調達）",
+          "impact": "high"
+        },
+        {
+          "date": "2024-10-15",
+          "achievement": "月商1億円突破",
+          "impact": "high"
+        }
+      ],
+      "tags": ["high_growth", "ai_tech", "series_a", "young_ceo"]
+    },
+    {
+      "id": "C002",
+      "profile": {
+        "name": "佐藤 美咲",
+        "age": 26,
+        "gender": "female",
+        "location": "東京都港区",
+        "avatar": "https://example.com/avatars/sato.jpg"
+      },
+      "company": {
+        "name": "EcoTech Innovations",
+        "industry": "クリーンテクノロジー",
+        "foundedDate": "2020-03-10",
+        "employeeCount": 45,
+        "businessModel": "製造・販売",
+        "currentRevenue": 350000000,
+        "targetRevenue": 2000000000
+      },
+      "subscription": {
+        "plan": "enterprise",
+        "startDate": "2023-12-01",
+        "status": "active",
+        "monthlyValue": 1998000,
+        "totalLifetimeValue": 25974000,
+        "churnRisk": "very_low"
+      },
+      "assessment": {
+        "score": 92,
+        "category": "champion",
+        "lastAssessment": "2024-12-01",
+        "improvementAreas": ["market_expansion"]
+      },
+      "engagement": {
+        "consultationsSoFar": 28,
+        "lastLogin": "2024-12-21",
+        "responseRate": 100,
+        "satisfactionScore": 4.9,
+        "npsScore": 10
+      },
+      "milestones": [
+        {
+          "date": "2024-02-20",
+          "achievement": "グリーンボンド発行認定取得",
+          "impact": "medium"
+        },
+        {
+          "date": "2024-08-30",
+          "achievement": "IPO予備審査通過",
+          "impact": "very_high"
+        },
+        {
+          "date": "2024-12-01",
+          "achievement": "年商5億円達成",
+          "impact": "high"
+        }
+      ],
+      "tags": ["ipo_ready", "cleantech", "female_ceo", "esg_leader"]
+    },
+    {
+      "id": "C003",
+      "profile": {
+        "name": "鈴木 大輔",
+        "age": 32,
+        "gender": "male",
+        "location": "大阪府大阪市",
+        "avatar": "https://example.com/avatars/suzuki.jpg"
+      },
+      "company": {
+        "name": "HealthTech Plus",
+        "industry": "ヘルスケア",
+        "foundedDate": "2019-11-20",
+        "employeeCount": 38,
+        "businessModel": "プラットフォーム",
+        "currentRevenue": 280000000,
+        "targetRevenue": 1500000000
+      },
+      "subscription": {
+        "plan": "professional",
+        "startDate": "2024-03-15",
+        "status": "active",
+        "monthlyValue": 898000,
+        "totalLifetimeValue": 8082000,
+        "churnRisk": "medium"
+      },
+      "assessment": {
+        "score": 73,
+        "category": "rising_star",
+        "lastAssessment": "2024-11-30",
+        "improvementAreas": ["scaling", "regulation"]
+      },
+      "engagement": {
+        "consultationsSoFar": 15,
+        "lastLogin": "2024-12-18",
+        "responseRate": 87,
+        "satisfactionScore": 4.6,
+        "npsScore": 8
+      },
+      "milestones": [
+        {
+          "date": "2024-05-10",
+          "achievement": "薬事承認取得",
+          "impact": "very_high"
+        },
+        {
+          "date": "2024-09-25",
+          "achievement": "医療機関との提携100施設突破",
+          "impact": "high"
+        }
+      ],
+      "tags": ["healthcare", "regulation_heavy", "partnerships", "b2b"]
+    },
+    {
+      "id": "C004",
+      "profile": {
+        "name": "高橋 理恵",
+        "age": 24,
+        "gender": "female",
+        "location": "東京都新宿区",
+        "avatar": "https://example.com/avatars/takahashi.jpg"
+      },
+      "company": {
+        "name": "FinTech Revolution",
+        "industry": "フィンテック",
+        "foundedDate": "2022-06-01",
+        "employeeCount": 18,
+        "businessModel": "SaaS",
+        "currentRevenue": 45000000,
+        "targetRevenue": 500000000
+      },
+      "subscription": {
+        "plan": "starter",
+        "startDate": "2024-09-01",
+        "status": "active",
+        "monthlyValue": 298000,
+        "totalLifetimeValue": 1192000,
+        "churnRisk": "high"
+      },
+      "assessment": {
+        "score": 65,
+        "category": "potential",
+        "lastAssessment": "2024-12-10",
+        "improvementAreas": ["funding", "team_building", "market_fit"]
+      },
+      "engagement": {
+        "consultationsSoFar": 3,
+        "lastLogin": "2024-12-19",
+        "responseRate": 78,
+        "satisfactionScore": 4.3,
+        "npsScore": 7
+      },
+      "milestones": [
+        {
+          "date": "2024-10-15",
+          "achievement": "シードラウンド調達完了（1億円）",
+          "impact": "high"
+        }
+      ],
+      "tags": ["early_stage", "fintech", "young_founder", "seed_funding"]
+    },
+    {
+      "id": "C005",
+      "profile": {
+        "name": "山田 拓也",
+        "age": 35,
+        "gender": "male",
+        "location": "福岡県福岡市",
+        "avatar": "https://example.com/avatars/yamada.jpg"
+      },
+      "company": {
+        "name": "Regional Digital Solutions",
+        "industry": "IT・地域DX",
+        "foundedDate": "2018-04-01",
+        "employeeCount": 52,
+        "businessModel": "システム開発・コンサル",
+        "currentRevenue": 680000000,
+        "targetRevenue": 3000000000
+      },
+      "subscription": {
+        "plan": "enterprise",
+        "startDate": "2024-01-01",
+        "status": "active",
+        "monthlyValue": 1998000,
+        "totalLifetimeValue": 23976000,
+        "churnRisk": "low"
+      },
+      "assessment": {
+        "score": 86,
+        "category": "champion",
+        "lastAssessment": "2024-11-20",
+        "improvementAreas": ["scalability"]
+      },
+      "engagement": {
+        "consultationsSoFar": 24,
+        "lastLogin": "2024-12-20",
+        "responseRate": 92,
+        "satisfactionScore": 4.7,
+        "npsScore": 9
+      },
+      "milestones": [
+        {
+          "date": "2024-04-01",
+          "achievement": "地方銀行との大型契約締結",
+          "impact": "high"
+        },
+        {
+          "date": "2024-11-01",
+          "achievement": "年商7億円突破",
+          "impact": "high"
+        }
+      ],
+      "tags": ["regional_leader", "dx_expert", "stable_growth", "b2b_focus"]
+    }
+  ],
+  "customerSummary": {
+    "totalCustomers": 5,
+    "averageAge": 29.2,
+    "genderDistribution": {
+      "male": 3,
+      "female": 2
+    },
+    "planDistribution": {
+      "starter": 1,
+      "professional": 2,
+      "enterprise": 2
+    },
+    "industryDistribution": {
+      "AI・機械学習": 1,
+      "クリーンテクノロジー": 1,
+      "ヘルスケア": 1,
+      "フィンテック": 1,
+      "IT・地域DX": 1
+    },
+    "averageRevenue": 295000000,
+    "averageAssessmentScore": 78.8,
+    "averageLifetimeValue": 13461200,
+    "averageSatisfactionScore": 4.66,
+    "averageNpsScore": 8.6,
+    "churnRiskDistribution": {
+      "very_low": 1,
+      "low": 2,
+      "medium": 1,
+      "high": 1
+    }
+  }
+}
