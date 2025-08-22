@@ -1,0 +1,40 @@
+{
+  "name": "hanataba-web",
+  "version": "1.0.0",
+  "description": "HANATABA - IPOの地図 × 20歳の羅針盤 × AIの推進力",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "ipo",
+    "startup",
+    "ai",
+    "consulting"
+  ],
+  "author": "HANATABA Team",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.2",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.18.2",
+    "next": "^15.5.0",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.5.0"
+  }
+}
